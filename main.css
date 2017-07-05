@@ -1,0 +1,17 @@
+html{
+    background: url(imags/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.sticker{
+	background-color: yellow;
+	height: 5em;
+	width: 5em;
+
+	display: flex;
+  	align-items: center;
+	justify-content: center;
+}
